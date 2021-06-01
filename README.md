@@ -9,6 +9,6 @@ Ground truth video &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 ![](ground_truth_video.gif)                        |  ![](down-sampled_ground-truth.gif)
 
 
-VAE-only output &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;    &nbsp;                                 |  Proposed method  output ; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp
+VAE-only output &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;    &nbsp;                                 |  Proposed method  output ; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
 :-------------------------------------------------:|:------------------------------------------------:
 ![](vae_only_output.gif)                        |  ![](proposed_method_output.gif)
