@@ -3,8 +3,8 @@
 
 *Example FRUC of three a cardiac cine.*
 
-
-Ground truth video&nbsp                                             |  down-sampled ground truth (input)
+down-sampled ground truth (input)
+Ground truth video                 |  down-sampled ground truth (input)
 :-------------------------------------------------:|:------------------------------------------------:
 ![](ground_truth_video.gif)                        |  ![](down-sampled_ground-truth.gif)
 
