@@ -4,11 +4,11 @@
 *Example FRUC of three a cardiac cine.*
 
 down-sampled ground truth (input)
-Ground truth video &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                 |  down-sampled ground truth (input)
+Ground truth video &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                 |  down-sampled ground truth (input)
 :-------------------------------------------------:|:------------------------------------------------:
 ![](ground_truth_video.gif)                        |  ![](down-sampled_ground-truth.gif)
 
 
-VAE-onlyoutput                                     |  Proposed  method  out-put 
+VAE-onlyoutput &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                                    |  Proposed  method  out-put 
 :-------------------------------------------------:|:------------------------------------------------:
 ![](vae_only_output.gif)                        |  ![](proposed_method_output.gif)
